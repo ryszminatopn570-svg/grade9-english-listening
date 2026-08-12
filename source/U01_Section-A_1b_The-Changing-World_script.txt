@@ -1,0 +1,20 @@
+Unit 1  The Changing World
+Section A, 1b
+
+Li Rui: Hello, George.
+
+George: Hi, Li Rui. Guess what? My father, Bob, and I are going to visit your hometown. Could you be our guide?
+
+Li Rui: Sure! I'd love to!
+
+George: Wonderful! You know, my father's last visit was about 20 years ago. He became a good friend of your grandfather.
+
+Li Rui: Grandpa will be so happy. They haven't seen each other for ages!
+
+George: Yes, and my father really wants to see how the place has changed since he last visited.
+
+Voice assignment
+- Li Rui: zh-CN-YunxiNeural, friendly Chinese teenage male voice
+- George: en-US-BrianNeural, casual American male voice
+
+Target level: Grade 9
